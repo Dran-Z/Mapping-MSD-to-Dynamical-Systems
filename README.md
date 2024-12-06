@@ -1,5 +1,5 @@
 # Mapping MSD to Dynamical Systems
- Simulation code for paper "Mapping Magic State Distillation Protocols to Dynamical Systems"
+ Simulation code for paper "Mapping Magic State Distillation Protocols to Dynamical Systems"[arxiv:2412.04402](https://arxiv.org/abs/2412.04402)
 
 For the flow diagram (Figure 2 & 3), please refer to [`flow_plotting.ipynb`](flow_plotting.ipynb).
 
